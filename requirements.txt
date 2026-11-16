@@ -1,0 +1,5 @@
+# 注意：numpy 固定 2.3.5 —— 2.5.x 自带的 OpenBLAS 在 6.195 那台 i5-5300U 上
+# 加载失败(0xC0E90002)，2.3.5 实测正常。
+PySide6-Essentials>=6.5
+opencv-python>=4.8
+numpy==2.3.5
