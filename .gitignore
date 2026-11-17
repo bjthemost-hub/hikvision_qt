@@ -1,5 +1,10 @@
-__pycache__/
+﻿__pycache__/
 *.pyc
 *.pyo
 *.log
 .DS_Store
+
+# 2026-11-17 聊天记录 / 会话导出一律不进仓库
+聊天记录/
+*聊天记录*
+chatlog/
